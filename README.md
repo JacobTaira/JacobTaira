@@ -8,7 +8,7 @@ Feel free to reach out via one of the links below:<br />
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">About Me</h2>
 
 ###
 
@@ -16,7 +16,7 @@ Feel free to reach out via one of the links below:<br />
 
 ###
 
-<h2 align="left">My tech stack</h2>
+<h2 align="left">My Tech Stack</h2>
 
 ###
 
