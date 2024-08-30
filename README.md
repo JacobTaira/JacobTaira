@@ -65,9 +65,3 @@ You can reach me via one of the links below:<br />
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=JacobTaira.JacobTaira&left_color=orange&right_color=orange&left_text=%20%F0%9F%91%81%20Profile%20Views"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/JacobTaira/JacobTaira/output/snake.svg" alt="Snake animation" />
-
-###
