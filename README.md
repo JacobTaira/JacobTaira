@@ -1,4 +1,9 @@
-## Hey! 👋(￣、￣)
+### <samp>Hey!👋</samp>
+My name is Jacob Taira, you can reach me via one of the links below:
+[![Email](https://img.shields.io/badge/Email-155d96?logo=Gmail&logoColor=white)](jacob.m.taira@gmail.com)
+
+
+
 🕮 Current senior at Vista Ridge High School <br />
 <3 FTC Robotics<br />
 ♫ Tank! - Seatbelts <br />
