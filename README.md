@@ -2,12 +2,9 @@
 
 ###
 
-<p align="left">My name is Jacob Taira</p>
-
-You can reach me via one of the links below:<br />
+Feel free to reach out via one of the links below:<br />
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/RoboticsEnthusiast/)
 [![Email](https://img.shields.io/badge/Email-155d96?logo=Gmail&logoColor=white)](mailto:jacob.m.taira@gmail.com)
-
 
 ###
 
