@@ -1,8 +1,7 @@
 ### <samp>Hey!👋</samp>
 My name is Jacob Taira, you can reach me via one of the links below:<br />
+[![Linkedin](https://img.shields.io/badge/My%20Blog-f9197f?logo=blogstatic&logoColor=white)](https://www.linkedin.com/in/RoboticsEnthusiast/)
 [![Email](https://img.shields.io/badge/Email-155d96?logo=Gmail&logoColor=white)](mailto:jacob.m.taira@gmail.com)
-
-
 
 🕮 Current senior at Vista Ridge High School <br />
 <3 FTC Robotics<br />
