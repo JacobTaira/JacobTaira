@@ -52,9 +52,11 @@ You can reach me through the links below:<br />
 
 <div align="left">
   
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+  ![](https://raw.githubusercontent.com/JacobTaira/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+  ![](https://raw.githubusercontent.com/JacobTaira/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+  ![](https://raw.githubusercontent.com/JacobTaira/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+  ![](https://raw.githubusercontent.com/JacobTaira/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 </div>
 
