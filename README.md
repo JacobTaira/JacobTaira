@@ -51,9 +51,10 @@ You can reach me through the links below:<br />
 ###
 
 <div align="left">
+  
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 
-<img src="https://github.com/JacobTaira/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://github.com/JacobTaira/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 </div>
 
