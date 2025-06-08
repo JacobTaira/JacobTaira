@@ -12,7 +12,7 @@ You can reach me through the links below:<br />
 
 ###
 
-<p align="left">🕮 Current senior at Vista Ridge High School -> Incoming UT Austin CS 🤘🤠 <br>♡ FTC Robotics<br>♫ Tank! - Seatbelts</p>
+<p align="left">🕮 UT Austin CS 🤘🤠 <br>♡ FTC Robotics<br>♫ Tank! - Seatbelts</p>
 
 ###
 
